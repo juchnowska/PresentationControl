@@ -1,0 +1,54 @@
+w:\visual studio 2010\osy\PresentationControl\PresentationControl\bin\Debug\PresentationControl.exe
+w:\visual studio 2010\osy\PresentationControl\PresentationControl\bin\Debug\PresentationControl.pdb
+w:\visual studio 2010\osy\PresentationControl\PresentationControl\obj\x86\Debug\ResolveAssemblyReference.cache
+w:\visual studio 2010\osy\PresentationControl\PresentationControl\obj\x86\Debug\MainWindow.baml
+w:\visual studio 2010\osy\PresentationControl\PresentationControl\obj\x86\Debug\MainWindow.g.cs
+w:\visual studio 2010\osy\PresentationControl\PresentationControl\obj\x86\Debug\App.g.cs
+w:\visual studio 2010\osy\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl_MarkupCompile.cache
+w:\visual studio 2010\osy\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl.g.resources
+w:\visual studio 2010\osy\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl.Properties.Resources.resources
+w:\visual studio 2010\osy\PresentationControl\PresentationControl\obj\x86\Debug\GenerateResource.read.1.tlog
+w:\visual studio 2010\osy\PresentationControl\PresentationControl\obj\x86\Debug\GenerateResource.write.1.tlog
+w:\visual studio 2010\osy\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl.exe
+w:\visual studio 2010\osy\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl.pdb
+C:\Users\magdalena\Downloads\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl.exe
+C:\Users\magdalena\Downloads\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl.pdb
+C:\Users\Yvonne\Downloads\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl.exe
+C:\Users\Yvonne\Downloads\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl.pdb
+C:\Users\Yvonne\Downloads\PresentationControl\PresentationControl\PresentationControl\bin\Debug\PresentationControl.exe
+C:\Users\Yvonne\Downloads\PresentationControl\PresentationControl\PresentationControl\bin\Debug\PresentationControl.pdb
+C:\Users\Yvonne\Downloads\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Yvonne\Downloads\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\MainWindow.baml
+C:\Users\Yvonne\Downloads\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Yvonne\Downloads\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\App.g.cs
+C:\Users\Yvonne\Downloads\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl_MarkupCompile.cache
+C:\Users\Yvonne\Downloads\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl.g.resources
+C:\Users\Yvonne\Downloads\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl.Properties.Resources.resources
+C:\Users\Yvonne\Downloads\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Yvonne\Downloads\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\magdalena\Documents\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl.exe
+C:\Users\magdalena\Documents\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl.pdb
+C:\Users\magdalena\Documents\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\magdalena\Documents\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\MainWindow.baml
+C:\Users\magdalena\Documents\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\MainWindow.g.cs
+C:\Users\magdalena\Documents\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\App.g.cs
+C:\Users\magdalena\Documents\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl_MarkupCompile.cache
+C:\Users\magdalena\Documents\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl.g.resources
+C:\Users\magdalena\Documents\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\magdalena\Documents\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\magdalena\Documents\PresentationControl\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl.Properties.Resources.resources
+C:\Users\magdalena\Documents\PresentationControl\PresentationControl\PresentationControl\bin\Debug\PresentationControl.exe
+C:\Users\magdalena\Documents\PresentationControl\PresentationControl\PresentationControl\bin\Debug\PresentationControl.pdb
+C:\Users\Yvonne\Downloads\PresentationControl (1)\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl.exe
+C:\Users\Yvonne\Downloads\PresentationControl (1)\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl.pdb
+C:\Users\Yvonne\Downloads\PresentationControl (1)\PresentationControl\PresentationControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Yvonne\Downloads\PresentationControl (1)\PresentationControl\PresentationControl\obj\x86\Debug\MainWindow.baml
+C:\Users\Yvonne\Downloads\PresentationControl (1)\PresentationControl\PresentationControl\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Yvonne\Downloads\PresentationControl (1)\PresentationControl\PresentationControl\obj\x86\Debug\App.g.cs
+C:\Users\Yvonne\Downloads\PresentationControl (1)\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl_MarkupCompile.cache
+C:\Users\Yvonne\Downloads\PresentationControl (1)\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl.g.resources
+C:\Users\Yvonne\Downloads\PresentationControl (1)\PresentationControl\PresentationControl\obj\x86\Debug\PresentationControl.Properties.Resources.resources
+C:\Users\Yvonne\Downloads\PresentationControl (1)\PresentationControl\PresentationControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Yvonne\Downloads\PresentationControl (1)\PresentationControl\PresentationControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Yvonne\Downloads\PresentationControl (1)\PresentationControl\PresentationControl\bin\Debug\PresentationControl.exe
+C:\Users\Yvonne\Downloads\PresentationControl (1)\PresentationControl\PresentationControl\bin\Debug\PresentationControl.pdb

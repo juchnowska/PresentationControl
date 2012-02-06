@@ -1,0 +1,49 @@
+﻿<Window x:Class="PresentationControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Presentation Control" Height="437" Width="368" Closed="Window_Closed">
+    <TabControl Height="393" Name="tabControl1" Width="342" BorderBrush="#FF001932" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch">
+        <TabItem Header="Menu" Name="tabItem1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="74*" />
+                    <ColumnDefinition Width="257*" />
+                </Grid.ColumnDefinitions>
+                <TextBlock Height="48" HorizontalAlignment="Left" Margin="21,36,0,0" Name="textBlock1" Text="textblock" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="289" />
+                <TextBlock Height="33" HorizontalAlignment="Left" Margin="24,90,0,0" Name="textBlock2" Text="" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="286" />
+            </Grid>
+        </TabItem>
+        <TabItem Header="Settings">
+            <Grid Height="366" Name="grid1" Width="335">
+                <Label Content="Start listening:" Height="28" HorizontalAlignment="Left" Name="label6" VerticalAlignment="Top" Margin="6,6,0,0" />
+                <Label Content="Stop listening:" Height="28" HorizontalAlignment="Left" Margin="6,40,0,0" Name="label7" VerticalAlignment="Top" />
+                <Label Content="Activate PowerPoint window:" Height="28" HorizontalAlignment="Left" Margin="6,74,0,0" Name="label8" VerticalAlignment="Top" />
+                <Label Content="Full screen:" Height="28" HorizontalAlignment="Left" Margin="6,108,0,0" Name="label9" VerticalAlignment="Top" />
+                <Label Content="Exit full screen:" Height="28" HorizontalAlignment="Left" Margin="6,142,0,0" Name="label10" VerticalAlignment="Top" />
+                <Label Content="Next slide:" Height="28" HorizontalAlignment="Left" Margin="6,176,0,0" Name="label11" VerticalAlignment="Top" />
+                <Label Content="Previous slide:" Height="28" HorizontalAlignment="Left" Margin="6,210,0,0" Name="label12" VerticalAlignment="Top" />
+                <Label Content="Hide application window:" Height="28" HorizontalAlignment="Left" Margin="6,244,0,0" Name="label13" VerticalAlignment="Top" />
+                <Label Content="Show application window:" Height="28" HorizontalAlignment="Left" Margin="6,278,0,0" Name="label14" VerticalAlignment="Top" />
+                <Button Content="Apply" Height="23" HorizontalAlignment="Left" Margin="216,321,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="ApplySettings" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="175,8,0,0" Name="textBox1" VerticalAlignment="Top" Width="154" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="175,42,0,0" Name="textBox2" VerticalAlignment="Top" Width="154" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="175,76,0,0" Name="textBox3" VerticalAlignment="Top" Width="154" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="175,110,0,0" Name="textBox4" VerticalAlignment="Top" Width="154" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="175,144,0,0" Name="textBox5" VerticalAlignment="Top" Width="154" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="175,178,0,0" Name="textBox6" VerticalAlignment="Top" Width="154" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="175,212,0,0" Name="textBox7" VerticalAlignment="Top" Width="154" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="175,246,0,0" Name="textBox8" VerticalAlignment="Top" Width="154" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="175,280,0,0" Name="textBox9" VerticalAlignment="Top" Width="154" />
+            </Grid>
+        </TabItem>
+        <TabItem Header="About" UseLayoutRounding="True">
+            <Grid>
+                <Label Content="authors:" Height="28" HorizontalAlignment="Left" Name="label1" VerticalAlignment="Top" Margin="19,22,0,0" Width="67" />
+                <Label Content="Magdalena Juchnowska" Height="28" HorizontalAlignment="Left" Margin="83,22,0,0" Name="label2" VerticalAlignment="Top" Width="228" />
+                <Label Content="Iwona Klimaszewska" Height="28" HorizontalAlignment="Left" Margin="83,42,0,0" Name="label3" VerticalAlignment="Top" Width="228" />
+                <Label Content="Oprogramowanie Systemowe" Height="28" HorizontalAlignment="Left" Margin="83,135,0,0" Name="label4" VerticalAlignment="Top" />
+                <Label Content="ETI PG 2011" Height="28" HorizontalAlignment="Left" Margin="120,159,0,0" Name="label5" VerticalAlignment="Top" />
+            </Grid>
+        </TabItem>
+    </TabControl>
+</Window>
